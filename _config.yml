@@ -23,25 +23,25 @@ repository               : "alescarpa99.github.io/alessandroscarpa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Image.jpg"
   name             : "Alessando Scarpa"
   pronouns         : # example: "she/her"  
-  bio              : "No AI-generated text allowed here :)"
+  bio              : "No AI-generated stuff allowed here :)"
   location         : "Rome, Italy"
   employer         : "Università degli Studi di Roma Tor Vergata"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alessandro.scarpa.474533@uniroma2.eu" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL  
+  googlescholar    : "https://scholar.google.com/citations?user=XosHYTUAAAAJ&hl=it"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,16 +57,16 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # URL
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "scarpa.alessandro_"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Alessandro Scarpa"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
