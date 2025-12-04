@@ -11,12 +11,11 @@ main:
    - title: "CV"
      url: /files/CURRICULUM.pdf
   
-  - title: "Publications"
-    url: /publications/
+   - title: "Publications"
+     url: /publications/
 
-  - title: "Essays"
-    url: /talks/    
+   - title: "Essays"
+     url: /talks/    
         
-  - title: "Stuff I'm interested in"
-    url: /year-archive/
-    
+   - title: "Stuff I'm interested in"
+     url: /year-archive/
