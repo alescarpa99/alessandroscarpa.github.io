@@ -25,8 +25,3 @@ The long answer comprises two different points.
 Now, not to boast, but such research could also contribute to the **sustainable luxury discussion**.  According to [Amy Nelson-Bennett](https://www.luxurydaily.com/seize-the-moment-how-sustainability-storytelling-can-reignite-luxurys-spark/) (CEO of Positive Luxury), consumers are “turning away from shiny storytelling, jaded by yet another collab, disillusioned by values exposed as hypocrisy.” Essentially, consumers are more and more skeptical of traditional luxury storytelling; they don’t buy it anymore. Bennet insists that this skepticism stems from dull and shallow sustainability messages that are, to be blunt, just virtue signaling. Randomly weaving sustainability messages along the value creation process is simply not enough; what it takes to win back consumers' trust lies in providing proof, and along with that, doing it with a new language of storytelling. To sum up, luxury brands need a new language to create compelling stories about actual sustainability efforts to win back consumers’ trust. The bottom line is that in order to do this, the fundamental step is to explore what consumers actually want to hear and why.
 
 Ok, now I’m actually done. Was it boring enough?
-
-
-
-
- (https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
