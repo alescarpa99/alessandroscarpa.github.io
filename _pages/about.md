@@ -12,7 +12,7 @@ Before I start telling you who I am and bothering you with things you may not wa
 
 Now that we are on the same page let's move on talking about the boring stuff.
 
-I’m a PhD student in Enterprise Engineering at the Università degli Studi di Roma Tor Vergata, interested in studying luxury consumers’ online (social media) behavior. Now, you might ask: “Why are you into this specific topic?” 
+I’m a PhD student in Enterprise Engineering at the (Università degli Studi di Roma Tor Vergata)[https://web.uniroma2.it/], interested in studying luxury consumers’ online (social media) behavior. Now, you might ask: “Why are you into this specific topic?” 
 
 The short answer is, I don’t know either. 
 
