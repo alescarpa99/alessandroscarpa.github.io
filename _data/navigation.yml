@@ -11,16 +11,15 @@ main:
    - title: "CV"
      url: /files/CURRICULUM.pdf
   
-   - title: "Publications"
+   - title: "Research"
      url: /publications/
    
-
    - title: "Essays"
      url: /talks/    
      
-   - title: "Master Students' thesis"
+   - title: "Supervised Theses"
      url: /teaching/    
      
         
-   - title: "Random stuff I'm interested in"
+   - title: "Random thoughts"
      url: /year-archive/
