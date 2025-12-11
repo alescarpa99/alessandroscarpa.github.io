@@ -16,6 +16,10 @@ main:
 
    - title: "Essays"
      url: /talks/    
+     
+   - title: "Master Students' thesis"
+     url: /teaching/    
+     
         
-   - title: "Stuff I'm interested in"
+   - title: "Random stuff I'm interested in"
      url: /year-archive/
