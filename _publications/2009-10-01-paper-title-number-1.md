@@ -1,7 +1,6 @@
 ---
 title: "State-owned enterprises: A bibliometric review and research agenda"
 collection: publications
-category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper presents a comprehensive bibliometric analysis of research on state-owned enterprises (SOEs) from 1994 to 2024. Using data from top-tier journals, we identify four major research themes: determinants of SOEs’ performance, corporate finance, corporate governance, and globalization. We identify key trends, research gaps, and emerging areas of interest, such as the intersection of sustainability and SOE governance. Our findings highlight that, while performance and corporate finance remain central topics, sustainability-related research is still nascent. The analysis suggests that future research should explore the integration of sustainability into SOE governance frameworks and financial strategies.'
 date: 2025-01-06
