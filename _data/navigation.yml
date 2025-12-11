@@ -12,7 +12,8 @@ main:
      url: /files/CURRICULUM.pdf
   
    - title: "Publications"
-     url: /publications/
+     url: https://scholar.google.com/citations?user=XosHYTUAAAAJ&hl=it
+   
 
    - title: "Essays"
      url: /talks/    
