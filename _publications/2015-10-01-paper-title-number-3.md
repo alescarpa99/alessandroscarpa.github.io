@@ -7,4 +7,4 @@ excerpt: 'This paper is currently under review.'
 date: 2026-01-01
 venue: 'Journal of Strategic Marketing'
 ---
-This paper is currently under review in the Journal of Strategic Marketing.
+This paper is **currently under review** in the Journal of Strategic Marketing.
